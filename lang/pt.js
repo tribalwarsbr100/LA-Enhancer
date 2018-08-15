@@ -1,8 +1,8 @@
 //Language: Portuguese
 //Translator: ntoombs19
-var filter_01 = "FA Filter Settings";
-var filter_02 = "Instructions";
-var filter_03 = "Created by";
+var filter_01 = "Script Ferramentas";
+var filter_02 = "Instruções";
+var filter_03 = "Programador";
 var filter_04 = "Load Pages";
 var filter_05 = "to";
 var filter_06 = "Enable";
@@ -16,17 +16,17 @@ var filter_13 = "Lost";
 var filter_14 = "Order By";
 var filter_15 = "Distance";
 var filter_16 = "Time";
-var filter_17 = "Direction";
-var filter_18 = "Ascending";
-var filter_19 = "Descending";
-var filter_20 = "Hide Hauls";
+var filter_17 = "Directhgjghjghjion";
+var filter_18 = "Ahgjghjghjing";
+var filter_19 = "Deshjghjg";
+var filter_20 = "hgjghjuls";
 var filter_21 = "Full";
 var filter_22 = "Partial";
 var filter_23 = "Hide Attacks";
-var filter_24 = "Greater Than";
-var filter_25 = "Less Than";
-var filter_26 = "Equal To";
-var filter_27 = "Hide farms sent to in the last";
+var filter_24 = "Grehgjghjan";
+var filter_25 = "Lhgjghjhan";
+var filter_26 = "hgjghjo";
+var filter_27 = "gjhgjghjt";
 var filter_28 = "minutes";
 var filter_29 = "Reset";
 var filter_30 = "Hide Wall Lvl";
